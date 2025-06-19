@@ -1,7 +1,7 @@
 # O-Level Grade Thresholds Dataset
 
 ## Overview
-This dataset contains grade threshold data for Cambridge O-Level examinations from 2016-2024, covering the impact of COVID-19 on grading standards.
+This dataset contains grade threshold data for Cambridge O-Level examinations from 2016-2024, also covering the impact of COVID-19 on grading standards.
 
 **O-Levels (Ordinary Levels)** are internationally recognized academic qualifications offered by Cambridge Assessment International Education. They are typically taken by students aged 14-16 and serve as:
 - Foundation for higher secondary education (A-Levels)
